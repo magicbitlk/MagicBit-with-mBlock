@@ -2,7 +2,7 @@
 ## Introduction
 ### What is mBlock
 
-mBlock is a STEAM programming software tool designed for programming for kids. It is developed based on Scratch 3.0 and Arduino code.  It supports block-based and text-based programming languages. [For more details ](http://www.mblock.cc/introduction-to-product/)
+mBlock is a STEAM programming software tool designed for programming for kids. It is developed based on Scratch 3.0 and Arduino code.  It supports block-based and text-based programming languages.For more information click [here](http://www.mblock.cc/introduction-to-product/)
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/mBlock.jpg "Logo Title Text 1")
 
@@ -12,4 +12,5 @@ MagicBit is supporting three different types(C-programming, visual programming a
 
 ## Step 01 : Installing mBlock IDE
 
-
+Click [here](http://www.mblock.cc/mblock-software/) for install mblock 3 IDE for your PC. 
+(NOTE: MagicBit extension is corrently develop for mBlock 3 and Widows users only.)
