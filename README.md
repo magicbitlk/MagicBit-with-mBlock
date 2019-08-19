@@ -43,7 +43,7 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/setup.png "Logo Title Text 1")
 
-2. Then go to the downloaded path and run the MagicBit Setup file.
+2. Then go to the downloaded path and run the "MagicBit Setup.EXE" file.
 3. Provide a easily accessible location for place the extracted files.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/magicbit_setup.png "Logo Title Text 1")
@@ -52,7 +52,7 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/menu.png "Logo Title Text 1")
 
-5. Go to the mblock intalled location (etc- C:\Program Files\mBlock). Double click on "assets" folder. replace the menu.xml file by copied one.
+5. Go to the mblock intalled location (etc- C:\Program Files\mBlock). Double click on "assets" folder. Replace the menu.xml file by copied one.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/assets.png "Logo Title Text 1")
 
@@ -68,3 +68,8 @@ Now you are successfully added the MagicBit extension for your mBlock.
 (Both files should be in the same folder)
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/live_mode.png "Logo Title Text 1")
+
+2. Then upload the MagicBit Firmware file to the MagicBit. (Pre-requrement : The Arduino IDE must be installed on your computer)
+
+3. Configuration completed.
+
