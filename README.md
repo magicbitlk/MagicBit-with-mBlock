@@ -62,4 +62,9 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/board_menu.png "Logo Title Text 1")
 
-### Step 03 : Live Mode Configuration
+### Step 04 : Live Mode Configuration
+
+1. Copy the remaining files in the extracted files( MagicBit_Firmware.ino file and Shapes.h file) in step 3-3. Paste them to your regular Arduino project file under a specific name.
+(Both files should be in the same folder)
+
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/live_mode.png "Logo Title Text 1")
