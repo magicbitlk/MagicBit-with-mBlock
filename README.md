@@ -48,6 +48,8 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/magicbit_setup.png "Logo Title Text 1")
 
+4. Copy the "menu.xml" file among extracted files.
+
 
 
 
