@@ -58,3 +58,4 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 6. Now go to the mBlock IDE,Boards section and check whether MagicBit board appears under MagicBlocks category.
 
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/board_menu.png "Logo Title Text 1")
