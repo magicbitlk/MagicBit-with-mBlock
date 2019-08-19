@@ -16,7 +16,7 @@ MagicBit is supporting three different ways(C-programming, visual programming an
 
 Click [here](http://www.mblock.cc/mblock-software/) for install mblock 3 IDE for your PC. 
 
-(NOTE: MagicBit extension is corrently developed for mBlock 3 and Windows users only.)
+(NOTE : MagicBit extension has been developed for mBlock 3 and Windows users.)
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/mblock3.png "Logo Title Text 1")https://www.youtube.com/watch?v=TgtZkCzYPgc
 
