@@ -25,7 +25,7 @@ For installation supports , click [here](https://www.youtube.com/watch?v=TgtZkCz
 ### Step 02 : Add MagicBit extension
 
 1. After installation, search the word "mBlock" in the task bar and double click on the mblock icon.
-2. After opening the mBlock IDE, go  Extensions -> Manage Extensions. There will appear a Manage Extensions window. 
+2. After opening the mBlock IDE, go  Extensions -> Manage Extensions. There will appear the Manage Extensions window. 
 3. In the Manage Extensions window, you can find the MagicBit extension by searching the word "Magicbit" or scrolling down the extensions list.
 4. Just click on the "Download" button
 
