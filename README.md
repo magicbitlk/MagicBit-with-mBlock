@@ -50,7 +50,9 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 4. Copy the "menu.xml" file among extracted files.
 
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/menu.png "Logo Title Text 1")
 
+5. Go to the mblock intalled location (etc- C:\Program Files\mBlock). Double click on "assets" folder. replace the menu.xml file by copied one.
 
 
 
