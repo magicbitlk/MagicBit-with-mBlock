@@ -18,9 +18,9 @@ Click [here](http://www.mblock.cc/mblock-software/) for install mblock 3 IDE for
 
 (NOTE : MagicBit extension has been developed for mBlock 3 and Windows users.)
 
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/mblock3.png "Logo Title Text 1")https://www.youtube.com/watch?v=TgtZkCzYPgc
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/mblock3.png "Logo Title Text 1")
 
-For installation helps , click [here](https://www.youtube.com/watch?v=TgtZkCzYPgc)
+For installation supports , click [here](https://www.youtube.com/watch?v=TgtZkCzYPgc)
 
 ### Step 02 : Add MagicBit extension
 
