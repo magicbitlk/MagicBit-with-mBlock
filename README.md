@@ -23,6 +23,6 @@ Click [here](http://www.mblock.cc/mblock-software/) for install mblock 3 IDE for
 1. After installation, search the word "mBlock" in the task bar and double click on the mblock icon.
 2. After opening the mBlock IDE, go  Extensions -> Manage Extensions. There will appear a Manage Extensions window. 
 3. In the Manage Extensions window, you can find the MagicBit extension by searching the word "Magicbit" or scrolling down the extension list.
-..* Just click on the download button
+*. Just click on the download button
 
 
