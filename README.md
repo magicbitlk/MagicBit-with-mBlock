@@ -56,6 +56,10 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/assets.png "Logo Title Text 1")
 
-6. Now go to the mBlock IDE,Boards section and check whether MagicBit board appears under MagicBlocks category.
+6. Re-open mBlock IDE or go to Extensions->clear cache for Restart mBlock.  
+
+7. Now go to the mBlock IDE,Boards section and check whether MagicBit board appears under MagicBlocks category.
 
 ![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/board_menu.png "Logo Title Text 1")
+
+### Step 03 : Live Mode Configuration
