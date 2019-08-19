@@ -54,5 +54,7 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 5. Go to the mblock intalled location (etc- C:\Program Files\mBlock). Double click on "assets" folder. replace the menu.xml file by copied one.
 
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/assets.png "Logo Title Text 1")
 
+6. Now go to the mBlock IDE,Boards section and check whether MagicBit board appears under MagicBlocks category.
 
