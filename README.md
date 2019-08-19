@@ -44,5 +44,9 @@ Now you are successfully added the MagicBit extension for your mBlock.
 2. Then go to the downloaded path and run the MagicBit Setup file.
 3. Provide a easily accessible location for place the extracted files.
 
+![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/magicbit_setup.png "Logo Title Text 1")
+
+
+
 
 
