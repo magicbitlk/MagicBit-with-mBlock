@@ -8,7 +8,7 @@ mBlock is a STEAM programming software tool designed for programming for kids. I
 
 ### MagicBit with mBlock
 
-MagicBit is supporting three different types(C-programming, visual programming and IoT) of programming methods. Among them mBlock can use for visual programming. We built mBlock V3 compatible extension for magicbit users. Below are the steps for adding that extension for your mBlock IDE.
+MagicBit is supporting three different ways(C-programming, visual programming and IoT) of programming methods. Among them mBlock opensource software can use for visual programming. We built mBlock V3 compatible extension for magicbit users. Below are the steps for adding that extension for your mBlock IDE.
 
 ## Procedure
 
