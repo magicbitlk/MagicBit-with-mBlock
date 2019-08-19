@@ -37,6 +37,6 @@ Now you are successfully added the MagicBit extension for your mBlock.
 
 ### Step 03 : Add MagicBit board
 
-1. For add the MagicBit board to mBlock boards menu , click [here](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/setup/MagicBit%20Setup.EXE) and download the MagicBit.EXE file 
+1. For add the MagicBit board to mBlock boards menu , click [here](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/setup/MagicBit%20Setup.EXE) and download the MagicBit.EXE file. 
 
 
