@@ -36,7 +36,7 @@ Magicbit equipped with four onboard leds in magicbit development board, Lets sel
 
 **->Coding (Live_mode)**
 
-.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/blink_led.png?raw=true
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/blink_led_new.png?raw=true
 
 **->Explanation**
 
@@ -50,7 +50,7 @@ Example 02: Reading the state of a push button
 
 **->Introduction**
 
-In this example you are learning how read a digital input from something like a button & use it to turn on and off a LED or any other digital devicee.
+In this example you are learning how read a digital input from something like a button & use it to turn on and off a LED or any other digital device.
 
 **->Learning Outcomes**
 
