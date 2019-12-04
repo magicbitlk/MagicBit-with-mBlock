@@ -74,6 +74,10 @@ Magicbit equipped with two onboard push buttons in magicbit development board, L
 
 .. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton.png?raw=true
 
+**->Coding (Live_mode**
+
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton_code.png?raw=true
+
 
 
 
