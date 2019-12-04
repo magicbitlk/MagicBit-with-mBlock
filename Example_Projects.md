@@ -32,11 +32,11 @@ A digital output allows you to control a voltage with an electronic device. If t
 
 Magicbit equipped with four onboard leds in magicbit development board, Lets select red LED (which is wired to D27).
 
-.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/image4.png
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/image4.png?raw=true
 
 **->Coding (Live_mode)**
 
-.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/blink_led.png
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/blink_led.png?raw=true
 
 **->Explanation**
 
@@ -72,7 +72,7 @@ In this example you are learning how read a digital input from something like a 
 
 Magicbit equipped with two onboard push buttons in magicbit development board, Lets select the push button which is wired to D34. Buttons on the board are in pulled up internally (to learn more about pullups/pulldowns follow this link), which means when button is not pressed the status of the button is 1(HIGH), & when the button is pressed the status of the button is 0(LOW).
 
-.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton.png
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton.png?raw=true
 
 
 
