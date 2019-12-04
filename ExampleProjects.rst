@@ -78,6 +78,12 @@ Magicbit equipped with two onboard push buttons in magicbit development board, L
 
 .. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton_code.png?raw=true
 
+**->Explanation**
+
+- **If else block:** In this block when considering the if state it always obey the instruction as HIGH state of the pin reading (Eg: if digital pin 34 is high, then ...). And 'else' state is obey the LOW state of the pin reading (Eg: else digital pin 34 is low, then ...)
+
+- **read digital pin block:** According to this block it is going to read the digital pin.
+
 
 
 
