@@ -2,7 +2,7 @@
 **Example Projects**
 *********************
 
-Example 01: Blinling LED
+Example 01: Blinking LED
 =========================
 
 **->Introduction**
@@ -30,7 +30,7 @@ A digital output allows you to control a voltage with an electronic device. If t
 
 **->Methodology**
 
-Magicbit equipped with four onboard leds in magicbit development board, Lets select red LED (which is wired to D27).
+Magicbit equipped with four on-board leds in magicbit development board, Lets select red LED (which is wired to D27).
 
 .. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/image4.png?raw=true
 
@@ -70,9 +70,15 @@ In this example you are learning how read a digital input from something like a 
 
 **->Methodology**
 
-Magicbit equipped with two onboard push buttons in magicbit development board, Lets select the push button which is wired to D34. Buttons on the board are in pulled up internally (to learn more about pullups/pulldowns follow this link), which means when button is not pressed the status of the button is 1(HIGH), & when the button is pressed the status of the button is 0(LOW).
+Magicbit equipped with two on-board push buttons in magicbit development board, Lets select the push button which is wired to D34. Buttons on the board are in pulled up internally (to learn more about pullups/pulldowns follow this link), which means when button is not pressed the status of the button is 1(HIGH), & when the button is pressed the status of the button is 0(LOW).
 
 .. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/Pushbutton.png?raw=true
+
+Also like in previous example we need to select an LED to indicate the change, lets select RED LED which is wired to pin D27.
+
+
+
+Then we can use the variable as the condition of the if block, and if the button is pressed, the bulb should turn on, and the button is not pressed the light should turn off.
 
 **->Coding (Live_mode**
 
@@ -82,8 +88,67 @@ Magicbit equipped with two onboard push buttons in magicbit development board, L
 
 - **If else block:** In this block when considering the if state it always obey the instruction as HIGH state of the pin reading (Eg: if digital pin 34 is high, then ...). And 'else' state is obey the LOW state of the pin reading (Eg: else digital pin 34 is low, then ...)
 
-- **read digital pin block:** According to this block it is going to read the digital pin.
+- **Read digital pin block:** According to this block it is going to read the digital pin.
+
+Example 03:Working with Analog Write
+=====================================
+
+**->Introduction**
+
+In this example you are learning how to turn on and off a LED or any other actuator which can be controlled by a digital output such as relay, bulb, motor.
+
+**->Learning Outcomes**
+
+From this example, you'll get an understanding about,
+
+-  Pulse Width Modulation
+-  Analog Write
+
+**->Components**
+
+- Magic Bit
+
+**->Theory**
+
+ To change the brightness of a LED we could change the voltage the LED is supplied with, but in a micro-controller, ability to change the voltage (converting a digital number to an analog voltage) is limited, so a method called PWM (Pulse Width Modulation) is used. What this does is pulsing on and off the pin in a high frequency. The length of the pulses creates the perception of brightness. 
+
+ Duty cycle is a term used to describe the ratio between on and off times.
 
 
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/dutyCycle.png?raw=true
+
+
+**->Methodology**
+
+Lets select green LED (which is wired to D16). We will set various duty cycle values as PWM percentage. Then brightness of green led will change according to the changing value.
+
+**->Code (Live_mode)**
+
+.. image:: https://github.com/HarshaWeerasinghe/MagicBit-with-mBlock/blob/master/Example_Resources/Blinking_LED/pwm_led.png?raw=true
+
+**->Explanation**
+
+- **Set pin:** In here we can set any PWM pin (D16, D27 etc) which is connected to a LED. There are four LEDs on magicbit (D16 D17 D18 D27). In this example green color LED is tested. Output PWM percentage value can be set by user. This percentage value means the Duty Cycle of the PWM signal.
+
+Example 04: Using Serial Protocol
+==================================
+
+**->Introduction**
+
+In this example you are learning to use serial communication function.
+
+**->Learning Outcomes**
+
+ From this example, you'll get an understanding about,
+
+-  Serial Protocol usage between Magic Bit & the PC
+
+**->Components**
+
+- Magicbit
+
+**->Theory**
+
+In microcontroller programming, communication between devices is essential. There are hundreds of protocols available, but most common & easy to use is Serial Protocol. Commonly used to communicate information between a microcontroller and a computer.
 
 
