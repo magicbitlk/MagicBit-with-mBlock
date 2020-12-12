@@ -37,41 +37,16 @@ You can check wheather the MagicBit extension has been added successfully by goi
 
 Now you are successfully added the MagicBit extension for your mBlock.
 
-### Step 03 : Add MagicBit board
+### Step 03 : Live Mode Configuration
 
-1. For add the MagicBit board to mBlock boards menu , click [here](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/setup/MagicBit%20Setup.EXE) and download the MagicBit.EXE file. 
+1.  Update scratch firmware using Magicbit Utility Tool(https://magicbit.cc/MagicbitUtility.msi)
 
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/setup.png "Logo Title Text 1")
+2. Configuration completed.
 
-2. Then go to the downloaded path and run the "MagicBit Setup.EXE" file.
-3. Provide a easily accessible location for place the extracted files.
+### Step 04 : Connect Board
+1. Select Board as Arduino Uno from Board menu
+2. Select Port from Connect -> Serail Port -> COM X
 
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/magicbit_setup.png "Logo Title Text 1")
-
-4. Copy the "menu.xml" file among extracted files.
-
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/menu.png "Logo Title Text 1")
-
-5. Go to the mblock intalled location (etc- C:\Program Files\mBlock). Double click on "assets" folder. Replace the menu.xml file by copied one.
-
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/assets.png "Logo Title Text 1")
-
-6. Re-open mBlock IDE or go to Extensions->clear cache for Restart mBlock.  
-
-7. Now go to the mBlock IDE,Boards section and check whether MagicBit board appears under MagicBlocks category.
-
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/board_menu.png "Logo Title Text 1")
-
-### Step 04 : Live Mode Configuration
-
-1. Copy the remaining files in the extracted files( MagicBit_Firmware.ino file and Shapes.h file) in step 3-3. Paste them to your regular Arduino project file under a specific name.
-(Both files should be in the same folder)
-
-![alt text](https://github.com/magicbitlk/MagicBit-with-mBlock/blob/master/images/MagicBit/live_mode.png "Logo Title Text 1")
-
-2. Then upload the MagicBit Firmware file to the MagicBit. (Pre-requrement : The Arduino IDE must be installed on your computer)
-
-3. Configuration completed.
 
 # Example projects
 
